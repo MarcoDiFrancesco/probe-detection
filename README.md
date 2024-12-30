@@ -5,19 +5,23 @@
 
 ## Quick start
 
-Install packages:
+1. Copy `probe_dataset` folder in this directory. The folder should contain `probe_images` and `probe_labels.json`.
+
+2. Install packages:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run training:
+3. Run inference:
 
 ```bash
 python ...
 ```
 
-Run inference:
+## Train
+
+Run training:
 
 ```bash
 python ...
